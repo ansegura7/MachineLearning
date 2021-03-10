@@ -4,6 +4,7 @@ Examples (code) of Data Science, Machine Learning and Deep Learning.
 ## Content
 Data Science:
 - Data Visualization & Dimensionality Reduction
+- Linear Discriminant Analysis
 
 Deep Learning:
 - CNN to Classify Images

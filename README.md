@@ -1,5 +1,5 @@
 # DS, ML & DL Examples
-Examples (code) of Data Science, Machine Learning and Deep Learning.
+Examples (with code) of Data Science, Machine Learning and Deep Learning techniques.
 
 ## Content
 Data Science:
@@ -8,6 +8,14 @@ Data Science:
 
 Deep Learning:
 - CNN to Classify Images
+
+Machine Learning:
+- Feed Forward NN
+- Linear Regression
+- Logistic Regression
+
+Information Theory:
+- Cross-Entropy
 
 ## Contributing and Feedback
 Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).

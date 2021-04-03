@@ -2,6 +2,9 @@
 Examples (with code) of Data Science, Machine Learning and Deep Learning techniques.
 
 ## Content
+Computer Science
+- Sorting number with different distribution
+
 Data Science:
 - Data Visualization & Dimensionality Reduction
 - Linear Discriminant Analysis
@@ -13,6 +16,7 @@ Machine Learning:
 - Feed Forward NN
 - Linear Regression
 - Logistic Regression
+- XOR NN Solution
 
 Information Theory:
 - Cross-Entropy

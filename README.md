@@ -4,22 +4,23 @@ Examples (with code) of Data Science, Machine Learning and Deep Learning techniq
 ## Content
 Computer Science
 - Sorting number with different distribution
+- Cross-Entropy (information theory)
 
 Data Science:
 - Data Visualization & Dimensionality Reduction
 - Linear Discriminant Analysis
 
 Deep Learning:
+- XOR NN Solution
+- Feed Forward NN
 - CNN to Classify Images
 
 Machine Learning:
-- Feed Forward NN
+- DBSCAN Clustering
+- Clustering Validation
 - Linear Regression
 - Logistic Regression
-- XOR NN Solution
-
-Information Theory:
-- Cross-Entropy
+- ROC Curve
 
 ## Contributing and Feedback
 Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).

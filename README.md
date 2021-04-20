@@ -6,21 +6,24 @@ Computer Science
 - Sorting number with different distribution
 - Cross-Entropy (information theory)
 
-Data Science:
+Data Science
 - Data Visualization & Dimensionality Reduction
 - Linear Discriminant Analysis
 
-Deep Learning:
+Deep Learning
 - XOR NN Solution
 - Feed Forward NN
 - CNN to Classify Images
 
-Machine Learning:
-- DBSCAN Clustering
-- Clustering Validation
-- Linear Regression
-- Logistic Regression
-- ROC Curve
+Machine Learning
+- Unsupervised Learning (UL):
+  - Hierarchical Clustering
+  - DBSCAN Clustering
+  - Clustering Validation
+- Supervised Learning (SL):
+  - Linear Regression
+  - Logistic Regression
+  - ROC Curve
 
 ## Contributing and Feedback
 Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).

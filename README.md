@@ -1,11 +1,7 @@
-# DS, ML & DL Examples
-Examples (with code) of Data Science, Machine Learning and Deep Learning techniques.
+# Machine Learning Code
+Examples (with code) of Machine Learning and Deep Learning techniques.
 
 ## Content
-Computer Science
-- Sorting number with different distribution
-- Cross-Entropy (information theory)
-
 Data Science
 - Data Visualization & Dimensionality Reduction
 - Linear Discriminant Analysis

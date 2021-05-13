@@ -1,4 +1,4 @@
-# Machine Learning Code
+# Machine Learning Course
 Getting started in Data Science, examples (with code) of Machine Learning and Deep Learning techniques.
 
 ## Content
@@ -6,11 +6,6 @@ Data Science
 - Correlation Coefficients
 - Data Visualization & Dimensionality Reduction
 - Linear Discriminant Analysis
-
-Deep Learning
-- XOR NN Solution
-- Feed Forward NN
-- CNN to Classify Images
 
 Machine Learning
 - Unsupervised Learning (UL):
@@ -21,6 +16,11 @@ Machine Learning
   - Linear Regression
   - Logistic Regression
   - ROC Curve
+
+Deep Learning
+- XOR NN Solution
+- Feed Forward NN
+- CNN to Classify Images
 
 ## Contributing and Feedback
 Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).

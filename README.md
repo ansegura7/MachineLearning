@@ -1,8 +1,9 @@
 # Machine Learning Code
-Examples (with code) of Machine Learning and Deep Learning techniques.
+Getting started in Data Science, examples (with code) of Machine Learning and Deep Learning techniques.
 
 ## Content
 Data Science
+- Correlation Coefficients
 - Data Visualization & Dimensionality Reduction
 - Linear Discriminant Analysis
 

@@ -1,5 +1,13 @@
 # Machine Learning Course
-Starting from Data Science, examples (with code) and explanation of Machine Learning, Deep Learning and NLP techniques.
+![version](https://img.shields.io/badge/version-Dev-blue)
+![release](https://img.shields.io/badge/release-0.5.2-blue)
+![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
+![last-update](https://img.shields.io/badge/last_update-05/17/2021-orange)
+![last-update](https://img.shields.io/badge/license-MIT-orange)
+
+Practical course, which starting from Data Science offers examples (with Python code) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
+
+Although it is not intended to have the formal rigor of a book, we tried to be as faithful as possible to the original algorithms and methods, only adding variants, when these were necessary for didactic purposes.
 
 ## Content
 Data Science
@@ -38,6 +46,7 @@ Any kind of feedback/criticism would be greatly appreciated (algorithm design, d
 ## Author
 - Created by Andrés Segura Tinoco
 - Created on Mar 06, 2021
+- Updated on May 17, 2021
 
 ## License
 This project is licensed under the terms of the MIT license.

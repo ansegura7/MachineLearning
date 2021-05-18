@@ -1,17 +1,18 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.5.2-blue)
+![release](https://img.shields.io/badge/release-0.6.0-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-05/17/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-05/18/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
-Practical course, which starting from Data Science offers examples (with Python code) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
+Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
 
 Although it is not intended to have the formal rigor of a book, we tried to be as faithful as possible to the original algorithms and methods, only adding variants, when these were necessary for didactic purposes.
 
 ## Content
 Data Science
 - Correlation Coefficients: <a href="https://twitter.com/SeguraAndres7/status/1392925454072524803?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1OdjOUc1NNonBfia9Qx4tsfm4-oSYoRMU?usp=sharing" target="_blank">code</a>
+- Entropy and Cross-Entropy: <a href="https://twitter.com/SeguraAndres7/status/1371554857560182790?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1c0BcPyK2e_FmdsfOV5la8ZC_u_T80TTf?usp=sharing" target="_blank">code</a>
 - Data Visualization & Dimensionality Reduction: <a href="https://colab.research.google.com/drive/17ZBnZKvn-ujWNmNn-4rdI2BU9lsL4Pg3?usp=sharing" target="_blank">code</a>
 - Linear Discriminant Analysis: <a href="https://colab.research.google.com/drive/14oqbmxYlYzgSw4MJzp7YrXBXGQ-N2y19?usp=sharing" target="_blank">code</a>
 
@@ -41,12 +42,12 @@ Natural Language Processing
 - spaCy: <a href="https://twitter.com/SeguraAndres7/status/1379518067277987843?s=20" target="_blank">explanation</a>
 
 ## Contributing and Feedback
-Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).
+Any kind of feedback/suggestions would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...). If you want to make a contribution to the course you can do it through a PR.
 
 ## Author
-- Created by Andrés Segura Tinoco
+- Created by Andrés Segura-Tinoco
 - Created on Mar 06, 2021
-- Updated on May 17, 2021
+- Updated on May 18, 2021
 
 ## License
 This project is licensed under the terms of the MIT license.

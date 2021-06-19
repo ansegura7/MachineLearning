@@ -17,6 +17,7 @@ Data Science
 - Linear Discriminant Analysis: <a href="https://colab.research.google.com/drive/14oqbmxYlYzgSw4MJzp7YrXBXGQ-N2y19?usp=sharing" target="_blank">code</a>
 
 Machine Learning
+- What is Machine Learning: <a href="https://twitter.com/SeguraAndres7/status/1406325975080656896?s=20" target="_blank">explanation</a>
 - Basic concepts: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
 - Unsupervised Learning (UL)
   - Clustering: <a href="https://twitter.com/SeguraAndres7/status/1382053877101555716?s=20" target="_blank">explanation</a>

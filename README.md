@@ -9,6 +9,10 @@ Free hands-on and interactive course in Python, which starting from Data Science
 
 Although it is not intended to have the formal rigor of a book, we tried to be as faithful as possible to the original algorithms and methods, only adding variants, when these were necessary for didactic purposes.
 
+## Quick Start
+If you want to play with these notebooks online without having to install any library or configure hardware, you can use the following service:
+- <a href="https://colab.research.google.com/github/ansegura7/MachineLearning/blob/master/" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Content
 Data Science
 - Correlation Coefficients: <a href="https://twitter.com/SeguraAndres7/status/1392925454072524803?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1OdjOUc1NNonBfia9Qx4tsfm4-oSYoRMU?usp=sharing" target="_blank">code</a>

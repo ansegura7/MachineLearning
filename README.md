@@ -1,8 +1,8 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.6.0-blue)
+![release](https://img.shields.io/badge/release-0.7.0-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-05/18/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-07/03/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -16,13 +16,14 @@ If you want to play with these notebooks online without having to install any li
 ## Content
 Data Science
 - Correlation Coefficients: <a href="https://twitter.com/SeguraAndres7/status/1392925454072524803?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1OdjOUc1NNonBfia9Qx4tsfm4-oSYoRMU?usp=sharing" target="_blank">code</a>
+- Feature Scaling: <a href="https://twitter.com/SeguraAndres7/status/1410994524894240771?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1DsvTezhnwfS7bPAeHHHHLHzcZTvjBzLc?usp=sharing" target="_blank">code</a>
 - Entropy and Cross-Entropy: <a href="https://twitter.com/SeguraAndres7/status/1371554857560182790?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1c0BcPyK2e_FmdsfOV5la8ZC_u_T80TTf?usp=sharing" target="_blank">code</a>
 - Data Visualization & Dimensionality Reduction: <a href="https://colab.research.google.com/drive/17ZBnZKvn-ujWNmNn-4rdI2BU9lsL4Pg3?usp=sharing" target="_blank">code</a>
 - Linear Discriminant Analysis: <a href="https://colab.research.google.com/drive/14oqbmxYlYzgSw4MJzp7YrXBXGQ-N2y19?usp=sharing" target="_blank">code</a>
 
 Machine Learning
 - What is Machine Learning: <a href="https://twitter.com/SeguraAndres7/status/1406325975080656896?s=20" target="_blank">explanation</a>
-- Basic concepts: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
+- Fundamentals: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
 - Unsupervised Learning (UL)
   - Clustering: <a href="https://twitter.com/SeguraAndres7/status/1382053877101555716?s=20" target="_blank">explanation</a>
   - Hierarchical Clustering: <a href="https://twitter.com/SeguraAndres7/status/1384580865313869826?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1yl3_15R-R6Avbkh8jcFSJMsnHyZmjNBm?usp=sharing" target="_blank">code</a>
@@ -52,7 +53,7 @@ Any kind of feedback/suggestions would be greatly appreciated (algorithm design,
 ## Author
 - Created by Andrés Segura-Tinoco
 - Created on Mar 06, 2021
-- Updated on May 18, 2021
+- Updated on Jul 03, 2021
 
 ## License
 This project is licensed under the terms of the MIT license.

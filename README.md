@@ -1,8 +1,8 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.7.0-blue)
+![release](https://img.shields.io/badge/release-0.7.1-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-07/03/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-07/11/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -10,6 +10,8 @@ Free hands-on and interactive course in Python, which starting from Data Science
 Although it is not intended to have the formal rigor of a book, we tried to be as faithful as possible to the original algorithms and methods, only adding variants, when these were necessary for didactic purposes.
 
 ## Quick Start
+The best way to get the most out of this course is to carefully read each selected problem, try to think of a possible solution (language independent) and then look at the proposed Python code and try to reproduce it in your favorite IDE. If you already have knowledge of the Python language, then you can go directly to programming your solution and then compare it with the one proposed in the course.
+
 If you want to play with these notebooks online without having to install any library or configure hardware, you can use the following service:
 - <a href="https://colab.research.google.com/github/ansegura7/MachineLearning/blob/master/" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -53,7 +55,7 @@ Any kind of feedback/suggestions would be greatly appreciated (algorithm design,
 ## Author
 - Created by Andrés Segura-Tinoco
 - Created on Mar 06, 2021
-- Updated on Jul 03, 2021
+- Updated on Jul 11, 2021
 
 ## License
 This project is licensed under the terms of the MIT license.

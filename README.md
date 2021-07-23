@@ -1,8 +1,8 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.6.0-blue)
+![release](https://img.shields.io/badge/release-0.7.1-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-07/23/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-07/11/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -10,19 +10,22 @@ Free hands-on and interactive course in Python, which starting from Data Science
 Although it is not intended to have the formal rigor of a book, we tried to be as faithful as possible to the original algorithms and methods, only adding variants, when these were necessary for didactic purposes.
 
 ## Quick Start
+The best way to get the most out of this course is to carefully read each selected problem, try to think of a possible solution (language independent) and then look at the proposed Python code and try to reproduce it in your favorite IDE. If you already have knowledge of the Python language, then you can go directly to programming your solution and then compare it with the one proposed in the course.
+
 If you want to play with these notebooks online without having to install any library or configure hardware, you can use the following service:
 - <a href="https://colab.research.google.com/github/ansegura7/MachineLearning/blob/master/" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Content
 Data Science
 - Correlation Coefficients: <a href="https://twitter.com/SeguraAndres7/status/1392925454072524803?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1OdjOUc1NNonBfia9Qx4tsfm4-oSYoRMU?usp=sharing" target="_blank">code</a>
+- Feature Scaling: <a href="https://twitter.com/SeguraAndres7/status/1410994524894240771?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1DsvTezhnwfS7bPAeHHHHLHzcZTvjBzLc?usp=sharing" target="_blank">code</a>
 - Entropy and Cross-Entropy: <a href="https://twitter.com/SeguraAndres7/status/1371554857560182790?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1c0BcPyK2e_FmdsfOV5la8ZC_u_T80TTf?usp=sharing" target="_blank">code</a>
 - Data Visualization & Dimensionality Reduction: <a href="https://colab.research.google.com/drive/17ZBnZKvn-ujWNmNn-4rdI2BU9lsL4Pg3?usp=sharing" target="_blank">code</a>
 - Linear Discriminant Analysis: <a href="https://colab.research.google.com/drive/14oqbmxYlYzgSw4MJzp7YrXBXGQ-N2y19?usp=sharing" target="_blank">code</a>
 
 Machine Learning
 - What is Machine Learning: <a href="https://twitter.com/SeguraAndres7/status/1406325975080656896?s=20" target="_blank">explanation</a>
-- Basic concepts: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
+- Fundamentals: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
 - Unsupervised Learning (UL)
   - Clustering: <a href="https://twitter.com/SeguraAndres7/status/1382053877101555716?s=20" target="_blank">explanation</a>
   - Hierarchical Clustering: <a href="https://twitter.com/SeguraAndres7/status/1384580865313869826?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1yl3_15R-R6Avbkh8jcFSJMsnHyZmjNBm?usp=sharing" target="_blank">code</a>
@@ -31,7 +34,7 @@ Machine Learning
 - Supervised Learning (SL)
   - Linear Regression: <a href="https://colab.research.google.com/drive/1hVFERSiiQXYZCxLNSBrkDL-3nIw73mwL?usp=sharing" target="_blank">code</a>
   - Logistic Regression: <a href="https://colab.research.google.com/drive/1NR8ZftXvkKU-KJuQUfTc4AAsBzFSTvjQ?usp=sharing" target="_blank">code</a>
-  - Confusion Matrix: <a href="https://twitter.com/SeguraAndres7/status/1418668283092422656?s=20" target="_blank">explanation</a> \| <a href="https://docs.google.com/spreadsheets/d/1UbSren8eqou-FwXq-nhXgHROQ7Tistszta832FWb5XU/edit?usp=sharing" target="_blank">resource</a>
+  - Confusion Matrix: <a href="https://twitter.com/SeguraAndres7/status/1379823388949090312?s=20" target="_blank">explanation</a>
   - ROC Curve: <a href="https://colab.research.google.com/drive/1dJJA5w4EgwssogEwJoKqb5ocYX1CKmWv?usp=sharing" target="_blank">code</a>
   - Overfitting and Regularization: <a href="https://twitter.com/SeguraAndres7/status/1359893579737550857?s=20" target="_blank">explanation</a>
 
@@ -52,7 +55,7 @@ Any kind of feedback/suggestions would be greatly appreciated (algorithm design,
 ## Author
 - Created by Andrés Segura-Tinoco
 - Created on Mar 06, 2021
-- Updated on Jul 23, 2021
+- Updated on Jul 11, 2021
 
 ## License
 This project is licensed under the terms of the MIT license.

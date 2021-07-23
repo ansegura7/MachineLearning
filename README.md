@@ -2,7 +2,7 @@
 ![version](https://img.shields.io/badge/version-Dev-blue)
 ![release](https://img.shields.io/badge/release-0.7.1-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-07/11/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-07/23/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -34,7 +34,7 @@ Machine Learning
 - Supervised Learning (SL)
   - Linear Regression: <a href="https://colab.research.google.com/drive/1hVFERSiiQXYZCxLNSBrkDL-3nIw73mwL?usp=sharing" target="_blank">code</a>
   - Logistic Regression: <a href="https://colab.research.google.com/drive/1NR8ZftXvkKU-KJuQUfTc4AAsBzFSTvjQ?usp=sharing" target="_blank">code</a>
-  - Confusion Matrix: <a href="https://twitter.com/SeguraAndres7/status/1379823388949090312?s=20" target="_blank">explanation</a>
+  - Confusion Matrix: <a href="https://twitter.com/SeguraAndres7/status/1418668283092422656?s=20" target="_blank">explanation</a> \| <a href="https://docs.google.com/spreadsheets/d/1UbSren8eqou-FwXq-nhXgHROQ7Tistszta832FWb5XU/edit?usp=sharing" target="_blank">resource</a>
   - ROC Curve: <a href="https://colab.research.google.com/drive/1dJJA5w4EgwssogEwJoKqb5ocYX1CKmWv?usp=sharing" target="_blank">code</a>
   - Overfitting and Regularization: <a href="https://twitter.com/SeguraAndres7/status/1359893579737550857?s=20" target="_blank">explanation</a>
 

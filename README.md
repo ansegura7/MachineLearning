@@ -1,8 +1,8 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.7.1-blue)
+![release](https://img.shields.io/badge/release-0.7.2-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-07/23/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-08/05/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -47,6 +47,7 @@ Natural Language Processing
 - Computational Linguistics vs NLP: <a href="https://twitter.com/SeguraAndres7/status/1385962128473997314?s=20" target="_blank">explanation</a>
 - Top NLP Libraries: <a href="https://twitter.com/SeguraAndres7/status/1391587231505260544?s=20" target="_blank">explanation</a>
 - Text Normalization: <a href="https://twitter.com/SeguraAndres7/status/1393661103670972416?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1tTWlUUj_sWy0cKAX04MZG-dku3yYSKZJ?usp=sharing" target="_blank">code</a>
+- Embeddings vs one-hot encoding: <a href="https://twitter.com/SeguraAndres7/status/1423001364851007490?s=20" target="_blank">explanation</a>
 - spaCy: <a href="https://twitter.com/SeguraAndres7/status/1379518067277987843?s=20" target="_blank">explanation</a>
 
 ## Contributing and Feedback
@@ -55,7 +56,7 @@ Any kind of feedback/suggestions would be greatly appreciated (algorithm design,
 ## Author
 - Created by Andrés Segura-Tinoco
 - Created on Mar 06, 2021
-- Updated on Jul 11, 2021
+- Updated on Aug 05, 2021
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the <a href="https://github.com/ansegura7/MachineLearning/blob/main/LICENSE">MIT license</a>.

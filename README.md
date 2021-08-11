@@ -2,7 +2,7 @@
 ![version](https://img.shields.io/badge/version-Dev-blue)
 ![release](https://img.shields.io/badge/release-0.7.2-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-08/05/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-08/11/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -15,15 +15,15 @@ The best way to get the most out of this course is to carefully read each select
 If you want to play with these notebooks online without having to install any library or configure hardware, you can use the following service:
 - <a href="https://colab.research.google.com/github/ansegura7/MachineLearning/blob/master/" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-## Content
-Data Science
+## Contents
+1. Data Science
 - Correlation Coefficients: <a href="https://twitter.com/SeguraAndres7/status/1392925454072524803?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1OdjOUc1NNonBfia9Qx4tsfm4-oSYoRMU?usp=sharing" target="_blank">code</a>
 - Feature Scaling: <a href="https://twitter.com/SeguraAndres7/status/1410994524894240771?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1DsvTezhnwfS7bPAeHHHHLHzcZTvjBzLc?usp=sharing" target="_blank">code</a>
 - Entropy and Cross-Entropy: <a href="https://twitter.com/SeguraAndres7/status/1371554857560182790?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1c0BcPyK2e_FmdsfOV5la8ZC_u_T80TTf?usp=sharing" target="_blank">code</a>
 - Data Visualization & Dimensionality Reduction: <a href="https://colab.research.google.com/drive/17ZBnZKvn-ujWNmNn-4rdI2BU9lsL4Pg3?usp=sharing" target="_blank">code</a>
 - Linear Discriminant Analysis: <a href="https://colab.research.google.com/drive/14oqbmxYlYzgSw4MJzp7YrXBXGQ-N2y19?usp=sharing" target="_blank">code</a>
 
-Machine Learning
+2. Machine Learning
 - What is Machine Learning: <a href="https://twitter.com/SeguraAndres7/status/1406325975080656896?s=20" target="_blank">explanation</a>
 - Fundamentals: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
 - Unsupervised Learning (UL)
@@ -38,12 +38,12 @@ Machine Learning
   - ROC Curve: <a href="https://colab.research.google.com/drive/1dJJA5w4EgwssogEwJoKqb5ocYX1CKmWv?usp=sharing" target="_blank">code</a>
   - Overfitting and Regularization: <a href="https://twitter.com/SeguraAndres7/status/1359893579737550857?s=20" target="_blank">explanation</a>
 
-Deep Learning
+3. Deep Learning
 - XOR NN Solution: <a href="https://twitter.com/SeguraAndres7/status/1376252172892049414?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1p8LfavHB1-VAmDPbjaHi9o5b1B5AYLwf?usp=sharing" target="_blank">code</a>
 - Feed Forward NN: <a href="https://twitter.com/SeguraAndres7/status/1374419061656883204?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1uv_0qeH4UnINP-g-GCb93-6xDNfvHx00?usp=sharing" target="_blank">code</a>
 - CNN to Classify Images: <a href="https://twitter.com/SeguraAndres7/status/1350184192781541376?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1SWeCHHwVAViYRFpdg5JyJ-geEpbbJf6G?usp=sharing" target="_blank">code</a>
 
-Natural Language Processing
+4. Natural Language Processing
 - Computational Linguistics vs NLP: <a href="https://twitter.com/SeguraAndres7/status/1385962128473997314?s=20" target="_blank">explanation</a>
 - Top NLP Libraries: <a href="https://twitter.com/SeguraAndres7/status/1391587231505260544?s=20" target="_blank">explanation</a>
 - Text Normalization: <a href="https://twitter.com/SeguraAndres7/status/1393661103670972416?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1tTWlUUj_sWy0cKAX04MZG-dku3yYSKZJ?usp=sharing" target="_blank">code</a>
@@ -56,7 +56,6 @@ Any kind of feedback/suggestions would be greatly appreciated (algorithm design,
 ## Author
 - Created by Andrés Segura-Tinoco
 - Created on Mar 06, 2021
-- Updated on Aug 05, 2021
 
 ## License
 This project is licensed under the terms of the <a href="https://github.com/ansegura7/MachineLearning/blob/main/LICENSE">MIT license</a>.

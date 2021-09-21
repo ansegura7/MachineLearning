@@ -1,8 +1,8 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.7.2-blue)
+![release](https://img.shields.io/badge/release-0.7.3-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-08/11/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-09/21/2021-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -26,12 +26,14 @@ If you want to play with these notebooks online without having to install any li
 2. Machine Learning
 - What is Machine Learning: <a href="https://twitter.com/SeguraAndres7/status/1406325975080656896?s=20" target="_blank">explanation</a>
 - Fundamentals: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
+- Tips for deploying ML models: <a href="https://twitter.com/SeguraAndres7/status/1439000608112062474?s=20" target="_blank">explanation</a> 
 - Unsupervised Learning (UL)
   - Clustering: <a href="https://twitter.com/SeguraAndres7/status/1382053877101555716?s=20" target="_blank">explanation</a>
   - Hierarchical Clustering: <a href="https://twitter.com/SeguraAndres7/status/1384580865313869826?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1yl3_15R-R6Avbkh8jcFSJMsnHyZmjNBm?usp=sharing" target="_blank">code</a>
   - DBSCAN Clustering: <a href="https://twitter.com/SeguraAndres7/status/1382808231270101001?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1zeri7dJ3FvrQitsvwQqFZZd0Fjsmvrmb?usp=sharing" target="_blank">code</a>
   - Clustering Validation: <a href="https://twitter.com/SeguraAndres7/status/1383452802848985090?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/178RYXMXuj61allc6TU29k93FR43QiHtH?usp=sharing" target="_blank">code</a>
 - Supervised Learning (SL)
+  - Methodology for regression problems: <a href="https://twitter.com/SeguraAndres7/status/1440424284640350217?s=20" target="_blank">explanation</a>
   - Linear Regression: <a href="https://colab.research.google.com/drive/1hVFERSiiQXYZCxLNSBrkDL-3nIw73mwL?usp=sharing" target="_blank">code</a>
   - Logistic Regression: <a href="https://colab.research.google.com/drive/1NR8ZftXvkKU-KJuQUfTc4AAsBzFSTvjQ?usp=sharing" target="_blank">code</a>
   - Confusion Matrix: <a href="https://twitter.com/SeguraAndres7/status/1418668283092422656?s=20" target="_blank">explanation</a> \| <a href="https://docs.google.com/spreadsheets/d/1UbSren8eqou-FwXq-nhXgHROQ7Tistszta832FWb5XU/edit?usp=sharing" target="_blank">resource</a>

@@ -49,6 +49,7 @@ If you want to play with these notebooks online without having to install any li
 - Computational Linguistics vs NLP: <a href="https://twitter.com/SeguraAndres7/status/1385962128473997314?s=20" target="_blank">explanation</a>
 - Top NLP Libraries: <a href="https://twitter.com/SeguraAndres7/status/1391587231505260544?s=20" target="_blank">explanation</a>
 - Text Normalization: <a href="https://twitter.com/SeguraAndres7/status/1393661103670972416?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1tTWlUUj_sWy0cKAX04MZG-dku3yYSKZJ?usp=sharing" target="_blank">code</a>
+- Split Sentences: <a href="https://twitter.com/SeguraAndres7/status/1454124830698115081?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1RI6Z56W2GHvfyLQwRTROqn2BvYXKislB?usp=sharing" target="_blank">code</a>
 - Embeddings vs one-hot encoding: <a href="https://twitter.com/SeguraAndres7/status/1423001364851007490?s=20" target="_blank">explanation</a>
 - spaCy: <a href="https://twitter.com/SeguraAndres7/status/1379518067277987843?s=20" target="_blank">explanation</a>
 

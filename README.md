@@ -1,8 +1,8 @@
 # Machine Learning Course
 ![version](https://img.shields.io/badge/version-Dev-blue)
-![release](https://img.shields.io/badge/release-0.7.3-blue)
+![release](https://img.shields.io/badge/release-0.7.4-blue)
 ![language](https://img.shields.io/badge/language-Python_3.7%7C3.8-brightgreen)
-![last-update](https://img.shields.io/badge/last_update-09/21/2021-orange)
+![last-update](https://img.shields.io/badge/last_update-02/9/2022-orange)
 ![last-update](https://img.shields.io/badge/license-MIT-orange)
 
 Free hands-on and interactive course in Python, which starting from Data Science offers examples (in Google Colab) and explanation (in Twitter threads) on concepts and techniques of Machine Learning, Deep Learning and NLP.
@@ -52,6 +52,7 @@ If you want to play with these notebooks online without having to install any li
 - Split Sentences: <a href="https://twitter.com/SeguraAndres7/status/1454124830698115081?s=20" target="_blank">explanation</a> \| <a href="https://colab.research.google.com/drive/1RI6Z56W2GHvfyLQwRTROqn2BvYXKislB?usp=sharing" target="_blank">code</a>
 - Embeddings vs one-hot encoding: <a href="https://twitter.com/SeguraAndres7/status/1423001364851007490?s=20" target="_blank">explanation</a>
 - spaCy: <a href="https://twitter.com/SeguraAndres7/status/1379518067277987843?s=20" target="_blank">explanation</a>
+- Hugging Face example: <a href="https://colab.research.google.com/drive/1SrNjb6ULMHjV7QGbZuuHc3rN5vV6BUnm?usp=sharing" target="_blank">code</a>
 
 ## Contributing and Feedback
 Any kind of feedback/suggestions would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...). If you want to make a contribution to the course you can do it through a PR.
